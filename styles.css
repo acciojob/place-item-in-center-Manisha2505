@@ -5,13 +5,15 @@
 	background: blue;
 	flex-direction: row;
 	justify-content: center;
+	flex-wrap: wrap;
+    align-items:center;
+
 	
 }
 .item-1{
 	width: 100px;
 	height: 100px;
+	background: red;
 	padding-top: 50px;
-	flex-direction: row;
-	justify-content: center;
-	
+
 }
